@@ -1,14 +1,10 @@
 {
   "name": "react-videochat",
-  "homepage": "https://eric-munoz.github.io/react-video-chat",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
     "start": "node index.js",
-    "build": "react-scripts build",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
