@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-video-chat-deploy/static/css/main.48cd6b27.css",
+    "main.js": "/react-video-chat-deploy/static/js/main.18382d46.js",
+    "index.html": "/react-video-chat-deploy/index.html",
+    "main.48cd6b27.css.map": "/react-video-chat-deploy/static/css/main.48cd6b27.css.map",
+    "main.18382d46.js.map": "/react-video-chat-deploy/static/js/main.18382d46.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48cd6b27.css",
+    "static/js/main.18382d46.js"
+  ]
+}
